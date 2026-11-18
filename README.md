@@ -1,52 +1,52 @@
-# UAIT Admissions Assistant capstone
+# UAIT Admissions Assistant Capstone
 
-A Streamlit chatbot for prospective students and families asking about United African Institute of Technology (UAIT) programmes and admissions. This adapts the supplied UAIt assistant to the capstone's required rules → intent classifier → fallback flow. It uses the included verified facts and knowledge seed; no language model key is needed.
+A Streamlit chatbot for prospective students and families asking about United African Institute of Technology (UAIT) programmes and admissions. This capstone adapts the supplied UAit assistant to use rules, an intent classifier, and a fallback.
 
 ## Live link
 
-Not deployed yet. After you push this repository to your public GitHub account and deploy `streamlit/app.py` on Streamlit Community Cloud, add the live URL here. A repository URL is due 18 November 2026 at 23:59, and the demonstration is 19 November 2026, per the supplied brief.
+[Open the UAIT Admissions Assistant](https://uait-chatbot-yjbwwqz7mht2qvhswdhhba.streamlit.app/)
 
 ## Purpose and users
 
-The assistant helps prospective students find general information. It is not an official admissions decision or a replacement for contacting UAIT. The source project contains some items marked for owner confirmation; have UAIT verify those before relying on them publicly.
+The chatbot helps prospective students and families find general information about UAIT. It is a student project, not an official admissions decision or a replacement for contacting UAIT. Some source information still needs confirmation from UAIT.
 
 ## Intents
 
-| Intent | Example user need | Route |
-|---|---|---|
-| greeting / identity / thanks | start a conversation or ask what the bot is | Rules, then classifier |
-| fees | tuition, costs, instalments | Rules, then classifier |
-| apply | application and enrolment steps | Rules, then classifier |
-| programmes | available courses | Rules, then classifier |
-| documents | entry requirements and papers | Rules, then classifier |
-| contact | admissions contact and location | Rules, then classifier |
-| dates | application period and deadline | Rules, then classifier |
-| goodbye | end the conversation | Rules, then classifier |
-| out of scope / low confidence | unrelated question or uncertain prediction | Fallback |
-
-The classifier threshold is `0.42` in `streamlit/app.py`. Rules run first; only messages not caught by a rule reach the classifier. The included CSV separates training rows and a fixed test set.
+| Intent | Example user need |
+|---|---|
+| Greeting, identity, thanks | Start a conversation or ask what the chatbot is |
+| Fees | Ask about tuition, costs, or instalments |
+| Apply | Ask how to apply or enrol |
+| Programmes | Ask which courses are available |
+| Documents | Ask about requirements or application papers |
+| Contact | Ask for admissions contact details or location |
+| Dates | Ask about application dates or deadlines |
+| Goodbye | End the conversation |
+| Out of scope | Ask something unrelated to UAIT |
 
 ## How it works
 
-1. Normalize whitespace and check ordered regular-expression rules.
-2. For unmatched wording, use a character n-gram TF-IDF + calibrated linear SVM classifier.
-3. Accept a prediction at confidence 0.42 or above; otherwise show the UAIT-specific fallback.
-4. For an in-scope admissions question, the existing assistant retrieves its verified facts and knowledge records. Goodbye closes the chat and offers a new conversation.
-5. A random visitor code and each turn can be sent to a private Google Sheet through Apps Script. No names or contact details are requested.
+The chatbot checks ordered rules first. If no rule matches, it uses a character n-gram TF-IDF and calibrated linear SVM classifier. The confidence threshold is `0.42`. Predictions below the threshold reach the fallback. In-scope admissions questions are answered using the supplied verified facts and knowledge records. Saying goodbye closes the conversation.
 
-Example flow: visitor asks “what can I study?” → classifier identifies `programmes` if no rule matches → verified knowledge assistant responds → visitor asks a follow-up → assistant uses its knowledge retrieval → visitor says “goodbye” → conversation closes.
+The app displays which part answered each message, such as `rules`, `classifier`, or `fallback`.
+
+Example dialogue flow: a visitor asks about available programmes; the chatbot identifies the `programmes` intent and answers from its knowledge records; the visitor asks a follow-up; the visitor says goodbye and the chatbot closes the conversation.
 
 ## Test results
 
-Run `python train_classifier.py` to train and report accuracy on the included unchanged test rows. The initial score is intentionally not claimed here because it has not been measured in this environment. Add real varied test conversations and document one bug plus its fix before submission.
+A manual check on the deployed app showed that `hi` received a greeting from the rules. The message `how can I join` reached the fallback, even though it is an in-scope admissions question. This is a known issue that needs to be corrected and retested.
+
+A full varied-message test table and measured classifier accuracy have not been completed yet. Run `python train_classifier.py` to measure accuracy on the fixed test rows in `intents.csv`. Record the actual result here; do not estimate or invent a score.
 
 ## What users wrote and what changed
 
-Not populated yet: this requires real, consent-notified use through your own private Sheet. After deployment, review the log, label relevant messages, append only anonymised message/intent rows to `intents.csv` with `source=log` and `split=train`, and rerun `python train_classifier.py`. Keep every `split=test` row unchanged and compare both versions on that same set. Record the actual before/after scores and 3–4 anonymised examples here. Never commit the raw log or Sheet URL.
+Real user feedback has not been collected and used for retraining yet. Google Sheet logging must first be configured with the private `LOG_URL` secret. Once real messages are collected, label relevant messages and add anonymised examples to `intents.csv` with `source=log` and `split=train`. Keep the existing test rows unchanged, retrain, and report before-and-after accuracy on that same test set here.
+
+Do not commit the raw log, the Sheet URL, or personal information.
 
 ## Limits and next improvement
 
-The classifier is trained on a small starter dataset and may miss local phrasing or Kinyarwanda/Korean messages; add reviewed examples before claiming broad language support. The answer knowledge may be stale or contain unresolved owner-confirmation items. Next: have UAIT verify the facts, collect consented messages, label failure cases, and improve the training set. The optional model/RAG features in the original project are not enabled by this Streamlit capstone.
+The classifier uses a small starter dataset and may not understand local phrasing or other languages reliably. Some information in the source knowledge still needs UAIT confirmation. The next improvement is to correct the in-scope `how can I join` routing issue, test varied messages, configure private logging, and retrain using reviewed user messages.
 
 ## Run locally
 
@@ -58,6 +58,8 @@ python train_classifier.py
 streamlit run streamlit/app.py
 ```
 
-For deployment, set the Streamlit main file to `streamlit/app.py`. To log turns, deploy `apps_script.gs` as a Google Apps Script web app and add `LOG_URL = "your private deployment URL"` to Streamlit secrets. Do not put that URL in GitHub. Without the secret, answers still work, but turns are not logged and this capstone requirement is incomplete.
+## Logging setup
 
-`intents.csv` is training data, not the real user log. `data/facts.json` and `data/knowledge_seed.json` are the assistant's source material. The original assistant architecture and deployment notes are retained in `DEPLOY.md`.
+To save turns to a private Google Sheet, deploy `apps_script.gs` as a Google Apps Script web app and add its URL as `LOG_URL` in Streamlit app secrets. Do not commit that URL to GitHub. Until logging is configured, turns are not saved and the real-user improvement requirement is incomplete.
+
+`intents.csv` contains classifier training and test examples, not the real user log. The chatbot’s source material is in `data/facts.json` and `data/knowledge_seed.json`.
