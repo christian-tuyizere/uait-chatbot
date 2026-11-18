@@ -1,0 +1,130 @@
+{
+ "as_of": "2026-10-27",
+ "institution": {
+  "name": "United African Institute of Technology",
+  "short": "UAIT",
+  "website": "https://uait.ac.rw/",
+  "address": "2 KG28 Ave, Kimihurura, Gasabo, Kigali, Rwanda",
+  "office_hours": {
+   "en": "Monday to Friday, 9:00 AM–5:00 PM",
+   "ko": "월요일~금요일, 오전 9시~오후 5시"
+  }
+ },
+ "contacts": {
+  "general_email": "uait@uait.ac.rw",
+  "admissions_email": "admission@uait.ac.rw",
+  "phones": [
+   "+250 788 23 7349",
+   "+250 785 981 970"
+  ],
+  "deprecated_emails": [
+   "2.admission@uait.ac.rw"
+  ],
+  "restricted": {
+   "hope_project": {
+    "emails": [
+     "uautkr@gmail.com"
+    ],
+    "phones": [
+     "+82 10-8887-2398"
+    ]
+   }
+  }
+ },
+ "admissions": {
+  "round": "First Round",
+  "intake": "2027/2028",
+  "opens": "2026-10-05",
+  "closes": "2026-11-30",
+  "class_start": null,
+  "how_to_apply_url": "https://uait.ac.rw/how-to-apply.html",
+  "admission_requirements_url": "https://uait.ac.rw/admission-requirements.html",
+  "fees_url": "https://uait.ac.rw/fees-payments.html",
+  "round_ko": "1차 모집"
+ },
+ "programmes": [
+  {
+   "id": "ai",
+   "status": "open",
+   "tuition_usd": 2000,
+   "duration_months": 12,
+   "name": {
+    "en": "AI Technology Certificate",
+    "ko": "AI Technology(AI 기술) 자격과정"
+   }
+  },
+  {
+   "id": "jewelry",
+   "status": "open",
+   "tuition_usd": 1500,
+   "duration_months": 12,
+   "name": {
+    "en": "Jewelry Design Certificate",
+    "ko": "Jewelry Design(주얼리 디자인) 자격과정"
+   }
+  },
+  {
+   "id": "piano",
+   "status": "coming_soon",
+   "name": {
+    "en": "Piano Performance Certificate",
+    "ko": "Piano Performance(피아노 연주) 자격과정"
+   }
+  },
+  {
+   "id": "drone",
+   "status": "coming_soon",
+   "name": {
+    "en": "Drone Technology Certificate",
+    "ko": "Drone Technology(드론 기술) 자격과정"
+   }
+  },
+  {
+   "id": "cyber",
+   "status": "coming_soon",
+   "name": {
+    "en": "Cyber Security Certificate",
+    "ko": "Cyber Security(사이버 보안) 자격과정"
+   }
+  },
+  {
+   "id": "advdip",
+   "status": "coming_soon",
+   "name": {
+    "en": "Advanced Diploma Programs",
+    "ko": "Advanced Diploma(고급 디플로마) 과정"
+   }
+  }
+ ],
+ "fees": {
+  "application_rwf": 50000,
+  "registration_rwf": 150000,
+  "late_penalty_percent": 5
+ },
+ "payment": {
+  "timing": "after_admission_confirmation",
+  "published_methods": [
+   "Bank of Kigali transfer",
+   "MTN Mobile Money"
+  ],
+  "official_instructions": [],
+  "official_instructions_source": null
+ },
+ "authorization": {
+  "body": "Rwanda TVET Board",
+  "programme": "One-Year Short Course in AI Technology",
+  "announced": "2025-10-30"
+ },
+ "owner_confirmation_needed": [
+  "Admissions email: the spec says admission@uait.ac.rw; the old prototype and the website's How to Apply snippet showed 2.admission@uait.ac.rw. Confirm which is live.",
+  "Fee timing: confirmed information says all fees are paid after admission confirmation, but the website lists Bank of Kigali instructions for the application fee. Confirm when the application fee is due.",
+  "Bank account number: deliberately not hard-coded. Add it to payment.official_instructions only after UAIT confirms it in writing.",
+  "Tuition amounts: the Fees & Payments page says to contact admissions for details. Confirm the amounts are still approved.",
+  "Korean wording: have a native Korean speaker review data/knowledge_seed.json and app/answers.py.",
+  "Piano Performance: the website's How to Apply and Programs pages list it as an open certificate, while facts.json treats it as coming soon. Confirm its status.",
+  "Placement figure: the Advantage page says 85% of students secure internships with partner companies. facts.json says placement/internship percentages are not confirmed, so the assistant does not state it as fact. Confirm whether it may be quoted.",
+  "Website dates: the How to Apply page (as read on 1 Nov 2026) still shows '2nd Admission - Deadline 27 March 2026, Class Start 4 May 2026', and the January 2026 admission guide shows older dates and bank details. Confirm that facts.json (First Round 2027/2028, 5 Oct to 30 Nov 2026) is current and update the website.",
+  "AI Technology prerequisites: the Admission Requirements page lists 'basic mathematics proficiency'; the 2026 admission guide says no prior AI or coding experience is needed (basic computer literacy is enough). Confirm the exact wording.",
+  "Faculty page: Jong-Duk Kim is listed as AI Technology faculty but his photo file is labelled Jewelry Design. Confirm before the assistant names him."
+ ]
+}

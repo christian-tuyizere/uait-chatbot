@@ -1,0 +1,1160 @@
+{
+ "version": "2026-11-01-website",
+ "records": [
+  {
+   "id": "open-programs",
+   "section": "Admissions 2027/2028",
+   "title": {
+    "en": "Programmes currently open",
+    "ko": "현재 모집 중인 과정"
+   },
+   "content": {
+    "en": "Only two programmes are open for applications for the 2027/2028 intake: AI Technology Certificate and Jewelry Design Certificate. No other programme may be described as open.",
+    "ko": "2027/2028학년도 지원을 받는 과정은 AI Technology 자격과정과 Jewelry Design 자격과정, 두 가지뿐입니다. 그 외의 과정은 모집 중이라고 안내할 수 없습니다."
+   },
+   "keywords": [
+    "open programs",
+    "programmes open",
+    "intake",
+    "apply",
+    "모집",
+    "과정",
+    "지원 가능"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "coming-soon",
+   "section": "Admissions 2027/2028",
+   "title": {
+    "en": "Coming-soon programmes",
+    "ko": "개설 예정 과정"
+   },
+   "content": {
+    "en": "Coming soon and NOT open for the 2027/2028 intake: Piano Performance Certificate, Drone Technology Certificate, Cyber Security Certificate and Advanced Diploma Programs. No launch dates are confirmed. For updates, contact UAIT administration.",
+    "ko": "2027/2028학년도에는 아직 지원할 수 없는 '개설 예정' 과정: Piano Performance(피아노 연주), Drone Technology(드론 기술), Cyber Security(사이버 보안) 자격과정과 Advanced Diploma(고급 디플로마) 과정. 개설 일정은 확정되지 않았습니다. 최신 소식은 UAIT 행정실에 문의해 주세요."
+   },
+   "keywords": [
+    "coming soon",
+    "piano performance",
+    "drone",
+    "cyber security",
+    "advanced diploma",
+    "개설 예정",
+    "피아노",
+    "드론",
+    "사이버 보안"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "admissions-round",
+   "section": "Admissions 2027/2028",
+   "title": {
+    "en": "First Round application dates",
+    "ko": "1차 지원 일정"
+   },
+   "content": {
+    "en": "The current round is the First Round for the 2027/2028 intake. Applications open on 5 October 2026 and close on 30 November 2026, which is the application deadline. The class start date is not confirmed.",
+    "ko": "현재는 2027/2028학년도 1차 모집입니다. 지원 접수는 2026년 10월 5일에 시작해 2026년 11월 30일에 마감되며, 이 날이 지원 마감일입니다. 개강일은 아직 확정되지 않았습니다."
+   },
+   "keywords": [
+    "deadline",
+    "dates",
+    "first round",
+    "application period",
+    "마감",
+    "지원 기간",
+    "1차"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "apply-steps",
+   "section": "How to apply",
+   "title": {
+    "en": "Official application process",
+    "ko": "공식 지원 절차"
+   },
+   "content": {
+    "en": "1. Download and read the Admission Guide from https://uait.ac.rw/. 2. Open the official application Google Form linked from https://uait.ac.rw/how-to-apply.html. 3. Prepare the required documents in PDF format. 4. Submit the application online. 5. Wait for shortlisting, an interview where applicable, and official admission confirmation. 6. Pay applicable fees only after receiving official admission confirmation. Only applications submitted through the official Google Form are considered; walk-in and paper applications are not accepted. The Google Form link must be taken from the official How to Apply page.",
+    "ko": "1. https://uait.ac.rw/ 에서 입학 안내서(Admission Guide)를 내려받아 읽습니다. 2. https://uait.ac.rw/how-to-apply.html 에 연결된 공식 지원 구글 폼(Google Form)을 엽니다. 3. 필요한 서류를 PDF로 준비합니다. 4. 온라인으로 제출합니다. 5. 서류 선발, 필요한 경우 면접, 그리고 공식 입학 확정 통보를 기다립니다. 6. 해당 비용은 공식 입학 확정 통보를 받은 후에만 납부합니다. 공식 구글 폼으로 제출한 지원서만 심사되며, 방문 접수나 서면 지원은 받지 않습니다. 구글 폼 링크는 반드시 공식 '지원 방법(How to Apply)' 페이지에서 확인하세요."
+   },
+   "keywords": [
+    "how to apply",
+    "application form",
+    "google form",
+    "submit",
+    "walk-in",
+    "지원 방법",
+    "구글 폼",
+    "제출"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "documents",
+   "section": "Application documents",
+   "title": {
+    "en": "Certificate application documents",
+    "ko": "자격과정 지원 서류"
+   },
+   "content": {
+    "en": "Certificate programmes require: the completed online application form; a self-introduction describing motivation, interests and career goals; a Statement of Learning Commitment (maximum one page); academic certificates and transcripts for secondary education (A2) or equivalent; and a copy of a national ID or passport. Additional requirements may depend on the applicant's circumstances and must be confirmed with admissions. Sensitive documents must only be sent through the official application process, never in a chat.",
+    "ko": "자격과정 지원 서류: 온라인 지원서 작성 완료본, 지원 동기·관심 분야·진로 목표를 담은 자기소개서, 학습 의지 진술서(Statement of Learning Commitment, 최대 1쪽), 중등교육(A2) 또는 이에 준하는 학력의 졸업증명서와 성적증명서, 신분증 또는 여권 사본. 지원자의 상황에 따라 추가 서류가 필요할 수 있으며, 입학처에 확인해야 합니다. 민감한 서류는 채팅이 아니라 공식 지원 절차를 통해서만 제출하세요."
+   },
+   "keywords": [
+    "documents",
+    "requirements",
+    "transcript",
+    "certificate",
+    "passport",
+    "id",
+    "서류",
+    "자기소개서",
+    "성적증명서",
+    "여권"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "optional-documents",
+   "section": "Application documents",
+   "title": {
+    "en": "Optional programme-specific documents",
+    "ko": "선택 제출 서류"
+   },
+   "content": {
+    "en": "AI Technology applicants may add a recommendation letter and evidence of interest in technology (courses, projects, certificates or links). Jewelry Design applicants may add portfolio samples (drawings, craft works or photographs of previous work) and a recommendation letter. The Admission Requirements page also lists additional items for Rwandan applicants and for international applicants. These two groups are different and must be kept separate and confirmed with admissions.",
+    "ko": "AI Technology 지원자는 추천서와 기술에 대한 관심을 보여 주는 자료(수강 내역, 프로젝트, 자격증, 링크 등)를 추가로 제출할 수 있습니다. Jewelry Design 지원자는 포트폴리오(그림, 공예 작품, 이전 작업 사진 등)와 추천서를 추가할 수 있습니다. '입학 요건(Admission Requirements)' 페이지에는 르완다 지원자와 외국인 지원자를 위한 추가 항목이 따로 나와 있으며, 두 그룹은 서로 다르므로 구분하여 입학처에서 확인해야 합니다."
+   },
+   "keywords": [
+    "optional",
+    "recommendation",
+    "portfolio",
+    "rwandan",
+    "international",
+    "추천서",
+    "포트폴리오",
+    "외국인"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "ai-program",
+   "section": "Programmes",
+   "title": {
+    "en": "AI Technology Certificate",
+    "ko": "AI Technology 자격과정"
+   },
+   "content": {
+    "en": "The AI Technology Certificate is a one-year, 12-month intensive programme covering artificial intelligence, machine learning, data science, neural networks, AI application development, analytics, AI ethics, practical projects and a capstone project that addresses an African challenge. Listed features: industry mentorship, portfolio development, AI lab facilities, career placement assistance and industry certification preparation. No prior coding experience is required. UAIT does not guarantee employment, a specific salary, an internship or a job placement rate.",
+    "ko": "AI Technology 자격과정은 12개월(1년) 집중 과정으로, 인공지능, 머신러닝, 데이터 사이언스, 신경망, AI 응용 개발, 데이터 분석, AI 윤리, 실습 프로젝트, 그리고 아프리카의 과제를 다루는 캡스톤 프로젝트로 구성됩니다. 산업계 멘토링, 포트폴리오 제작, AI 실습실, 취업 지원, 산업 인증 시험 준비가 제공됩니다. 코딩 경험은 필요하지 않습니다. UAIT는 취업, 특정 급여, 인턴십, 취업률을 보장하지 않습니다."
+   },
+   "keywords": [
+    "ai technology",
+    "artificial intelligence",
+    "machine learning",
+    "data science",
+    "capstone",
+    "no coding",
+    "인공지능",
+    "머신러닝",
+    "데이터",
+    "캡스톤"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "jewelry-program",
+   "section": "Programmes",
+   "title": {
+    "en": "Jewelry Design Certificate",
+    "ko": "Jewelry Design 자격과정"
+   },
+   "content": {
+    "en": "The Jewelry Design Certificate is a one-year programme that combines traditional craftsmanship with modern design and digital technologies. Topics include metalworking, gemology, stone setting, CAD, 3D printing, business, marketing, ethical sourcing, portfolio development and exhibition opportunities. No prior experience is required. Documented historical international internship experiences are examples, not guarantees of future opportunities.",
+    "ko": "Jewelry Design 자격과정은 전통 공예 기술과 현대 디자인, 디지털 기술을 결합한 1년 과정입니다. 금속 가공, 보석학, 보석 세팅, CAD, 3D 프린팅, 비즈니스, 마케팅, 윤리적 소싱, 포트폴리오 제작, 전시 기회 등을 다룹니다. 사전 경험은 필요하지 않습니다. 과거의 해외 인턴십 사례는 참고 사례일 뿐 향후 기회를 보장하지 않습니다."
+   },
+   "keywords": [
+    "jewelry",
+    "jewellery",
+    "metalworking",
+    "gemology",
+    "cad",
+    "3d printing",
+    "주얼리",
+    "보석",
+    "금속",
+    "3D 프린팅"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "fees",
+   "section": "Fees and payments",
+   "title": {
+    "en": "Published fees",
+    "ko": "공개된 비용"
+   },
+   "content": {
+    "en": "Application fee: RWF 50,000 (non-refundable). Admission/registration fee: RWF 150,000. AI Technology tuition: USD 2,000 per year. Jewelry Design tuition: USD 1,500 per year. The application and admission/registration fees apply to both open programmes. All applicable fees are payable only after official admission confirmation. Tuition is due before the start of each semester, USD tuition may be paid in RWF at the applicable exchange rate, payment plans are available through admissions, and a 5% late-payment penalty is stated. No exact RWF tuition equivalent may be calculated without a verified exchange rate. No scholarship amounts or individual scholarship availability are confirmed.",
+    "ko": "지원비: 50,000 RWF(환불 불가). 입학·등록비: 150,000 RWF. AI Technology 수업료: 연 2,000 USD. Jewelry Design 수업료: 연 1,500 USD. 지원비와 입학·등록비는 모집 중인 두 과정에 모두 적용됩니다. 모든 해당 비용은 공식 입학 확정 통보 이후에만 납부합니다. 수업료는 매 학기 시작 전에 납부하며, USD 수업료는 적용 환율로 RWF로 낼 수 있고, 분할 납부는 입학처를 통해 가능합니다. 납부 지연 시 5% 연체료가 명시되어 있습니다. 검증된 환율이 없으면 RWF 환산액을 계산하지 않습니다. 장학금 금액이나 개별 수혜 가능 여부는 확인된 바 없습니다."
+   },
+   "keywords": [
+    "tuition",
+    "fee",
+    "fees",
+    "cost",
+    "price",
+    "rwf",
+    "usd",
+    "payment plan",
+    "학비",
+    "수업료",
+    "비용",
+    "분할 납부"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "payment-guidance",
+   "section": "Fees and payments",
+   "title": {
+    "en": "Payment guidance",
+    "ko": "납부 안내"
+   },
+   "content": {
+    "en": "Pay only after official admission confirmation from UAIT. Never send money before admission is confirmed. The official Fees & Payments page (https://uait.ac.rw/fees-payments.html) publishes the payment instructions, which include Bank of Kigali transfer and MTN Mobile Money. Always check account details, codes and steps on that official page or with admissions before sending any money. Never use an account, number or code from a message, social media or an unofficial source. Paying a fee does not guarantee admission.",
+    "ko": "UAIT의 공식 입학 확정 통보를 받은 후에만 납부하세요. 입학이 확정되기 전에는 절대 송금하지 마세요. 공식 '수업료 및 납부(Fees & Payments)' 페이지(https://uait.ac.rw/fees-payments.html)에 Bank of Kigali 송금과 MTN 모바일 머니를 포함한 납부 방법이 게시되어 있습니다. 송금 전에 계좌 정보, 코드, 절차를 반드시 해당 공식 페이지나 입학처에서 확인하세요. 메시지, SNS, 비공식 경로로 받은 계좌나 번호는 사용하지 마세요. 비용을 납부해도 입학이 보장되지는 않습니다."
+   },
+   "keywords": [
+    "payment",
+    "pay",
+    "bank of kigali",
+    "mobile money",
+    "mtn",
+    "ussd",
+    "fraud",
+    "scam",
+    "납부",
+    "송금",
+    "모바일 머니",
+    "사기"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "community-academy",
+   "section": "Community Academy",
+   "title": {
+    "en": "Community Academy classes",
+    "ko": "커뮤니티 아카데미 수업"
+   },
+   "content": {
+    "en": "Community Academy classes: Piano Class, Korean Language and Computer Class. Learners join by contacting admissions directly; they must not be sent to the certificate application Google Form. Class fees are not published and must be requested from admissions. The Community Academy Piano Class is not the same as the Piano Performance Certificate, which is coming soon.",
+    "ko": "커뮤니티 아카데미 수업: 피아노 클래스, 한국어, 컴퓨터 수업. 수강 신청은 입학처에 직접 문의해야 하며, 자격과정 지원 구글 폼을 사용하지 않습니다. 수강료는 공개되어 있지 않으므로 입학처에 문의해야 합니다. 커뮤니티 아카데미의 피아노 클래스는 개설 예정인 Piano Performance 자격과정과 다릅니다."
+   },
+   "keywords": [
+    "community academy",
+    "piano class",
+    "korean language",
+    "computer class",
+    "커뮤니티 아카데미",
+    "한국어",
+    "컴퓨터",
+    "피아노"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "hope-project",
+   "section": "Hope Goat & Sheep Project",
+   "title": {
+    "en": "Hope Goat & Sheep Project",
+    "ko": "Hope Goat & Sheep 프로젝트"
+   },
+   "content": {
+    "en": "The Hope Goat & Sheep Project is a separate university-led livestock initiative. It is not an academic certificate programme and not a Community Academy course. Project-specific contacts: email uautkr@gmail.com; phone +82 10-8887-2398. Never use these contacts for admissions questions.",
+    "ko": "Hope Goat & Sheep 프로젝트는 대학이 주도하는 별도의 가축 사육 사업입니다. 학위·자격과정이 아니며 커뮤니티 아카데미 수업도 아닙니다. 프로젝트 전용 연락처: 이메일 uautkr@gmail.com, 전화 +82 10-8887-2398. 이 연락처는 입학 문의에 사용하지 마세요."
+   },
+   "keywords": [
+    "hope goat",
+    "sheep",
+    "goat",
+    "livestock",
+    "염소",
+    "양",
+    "가축"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "authorization",
+   "section": "Institutional information",
+   "title": {
+    "en": "AI Technology authorization",
+    "ko": "AI Technology 과정 인가"
+   },
+   "content": {
+    "en": "UAIT announced Rwanda TVET Board authorization for its One-Year Short Course in AI Technology Program on 30 October 2025. This must not be presented as a broader accreditation claim.",
+    "ko": "UAIT는 2025년 10월 30일, 1년 단기 AI Technology 과정에 대해 르완다 TVET 위원회(Rwanda TVET Board)의 인가를 받았다고 발표했습니다. 이를 더 넓은 범위의 인증으로 설명해서는 안 됩니다."
+   },
+   "keywords": [
+    "authorized",
+    "authorization",
+    "rtb",
+    "tvet",
+    "accreditation",
+    "인가",
+    "승인",
+    "인증"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "contacts",
+   "section": "Institutional information",
+   "title": {
+    "en": "Official contacts and location",
+    "ko": "공식 연락처 및 위치"
+   },
+   "content": {
+    "en": "United African Institute of Technology (UAIT), 2 KG28 Ave, Kimihurura, Gasabo, Kigali, Rwanda. Website: https://uait.ac.rw/. General enquiries: uait@uait.ac.rw. Admissions: admission@uait.ac.rw. Phones: +250 788 23 7349 and +250 785 981 970. Office hours: Monday to Friday, 9:00 AM–5:00 PM.",
+    "ko": "United African Institute of Technology (UAIT), 2 KG28 Ave, Kimihurura, Gasabo, Kigali, Rwanda. 웹사이트: https://uait.ac.rw/. 일반 문의: uait@uait.ac.rw. 입학 문의: admission@uait.ac.rw. 전화: +250 788 23 7349, +250 785 981 970. 운영 시간: 월요일~금요일, 오전 9시~오후 5시."
+   },
+   "keywords": [
+    "contact",
+    "email",
+    "phone",
+    "address",
+    "location",
+    "hours",
+    "연락처",
+    "이메일",
+    "전화",
+    "주소",
+    "위치"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "unconfirmed",
+   "section": "Unconfirmed information",
+   "title": {
+    "en": "Information not confirmed",
+    "ko": "확인되지 않은 정보"
+   },
+   "content": {
+    "en": "Not confirmed in the available knowledge: the 2027/2028 class start date; exact intake sizes; interview or exam dates for the new round; Community Academy fees; launch dates for coming-soon programmes; job-placement and internship percentages (the website states one figure that the owner has not confirmed); scholarship amounts and numbers; and the practical details (hours, access, cost, eligibility) of housing assistance, the library, the student portal and counselling, which the Student Life page lists without details. Say the specific detail is not confirmed and refer the visitor to admissions. This does not mean the service does not exist.",
+    "ko": "현재 확인된 정보가 없는 항목: 2027/2028학년도 개강일, 정확한 모집 인원, 새 모집 라운드의 면접·시험 일정, 커뮤니티 아카데미 수강료, 개설 예정 과정의 개설 시기, 취업률·인턴십 비율(웹사이트에 수치가 있으나 학교의 확인을 받지 못함), 장학금 금액과 인원, 그리고 학생 생활 페이지에 소개만 되어 있는 주거 지원·도서관·학생 포털·상담 서비스의 세부 사항(운영 시간, 이용 방법, 비용, 자격). 해당 세부 사항이 확인되지 않았다고 안내하고 입학처를 알려 주세요. 해당 서비스가 없다는 뜻은 아닙니다."
+   },
+   "keywords": [
+    "unknown",
+    "housing",
+    "library",
+    "counselling",
+    "scholarship",
+    "start date",
+    "interview",
+    "기숙사",
+    "도서관",
+    "장학금",
+    "개강일"
+   ],
+   "authority": "owner",
+   "as_of": "2026-10-27",
+   "url": null
+  },
+  {
+   "id": "ai-career-outcomes",
+   "section": "Careers",
+   "title": {
+    "en": "AI Technology Certificate: career outcomes",
+    "ko": "AI Technology 자격과정: 졸업 후 진로"
+   },
+   "content": {
+    "en": "UAIT does not guarantee employment, a specific salary, an internship or a placement rate, and no employment statistics for AI Technology graduates were found in the information available. The AI Technology Certificate prepares graduates for careers in AI development, data analysis and intelligent systems design, and to contribute to Africa's growing AI and technology sector. Students work on local-challenge projects such as agricultural optimisation, healthcare diagnostics and financial inclusion, and build an AI project portfolio. Listed support: industry mentorship, career placement assistance, industry-certification preparation, and opportunities to pursue career placements with UAIT's industry partners. UAIT's 2026 admission guide lists possible entry-level pathways: Junior AI Technician or AI Assistant; Data or Digital Assistant; Machine Learning Assistant (entry level); NGO or startup AI support staff; and further study in AI, ICT or related fields. It also says graduates will be able to build and apply AI solutions to real-world problems, develop and test basic machine learning and AI models, contribute to AI-related workplace projects, and use AI ethically and responsibly.",
+    "ko": "UAIT는 취업, 특정 급여, 인턴십, 취업률을 보장하지 않으며, AI Technology 졸업생의 취업 통계는 확인된 자료에서 찾을 수 없었습니다. AI Technology 자격과정은 졸업생이 AI 개발, 데이터 분석, 지능형 시스템 설계 분야의 진로를 준비하고 아프리카의 성장하는 AI·기술 분야에 기여하도록 돕습니다. 학생들은 농업 최적화, 의료 진단, 금융 포용 같은 지역 과제 프로젝트를 수행하고 AI 프로젝트 포트폴리오를 만듭니다. 제공되는 지원은 산업계 멘토링, 취업 지원, 산업 인증 준비이며, UAIT의 산업 파트너와 연계된 취업 기회도 모색할 수 있습니다. 2026년 입학 안내서가 제시하는 초급 진로는 주니어 AI 기술자/AI 어시스턴트, 데이터·디지털 어시스턴트, 머신러닝 어시스턴트(초급), NGO·스타트업 AI 지원 인력, 그리고 AI·ICT 관련 분야 진학입니다. 졸업생은 실제 문제에 AI 솔루션을 적용하고, 기초 머신러닝·AI 모델을 개발·테스트하며, AI 관련 업무 프로젝트에 기여하고, AI를 윤리적이고 책임 있게 사용할 수 있게 된다고 안내합니다."
+   },
+   "keywords": [
+    "career",
+    "careers",
+    "career outcomes",
+    "after graduation",
+    "graduate",
+    "graduates",
+    "jobs",
+    "job",
+    "employment",
+    "work",
+    "what can i do",
+    "pathways",
+    "진로",
+    "취업",
+    "졸업 후",
+    "일자리",
+    "경력"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/certificates.html"
+  },
+  {
+   "id": "ai-curriculum",
+   "section": "Programmes",
+   "title": {
+    "en": "AI Technology Certificate: curriculum and format",
+    "ko": "AI Technology 자격과정: 교육과정과 운영 방식"
+   },
+   "content": {
+    "en": "Website modules: AI Fundamentals; Machine Learning (supervised and unsupervised learning, training and evaluation); Data Science and Analytics (collection, cleaning, analysis, visualisation); Neural Networks (deep learning); AI Ethics and Society; and a Capstone Project solving a real African challenge. UAIT's 2026 admission guide adds Python for AI projects, machine learning with real-world projects, data processing and applied mathematics, chatbots and conversational AI, mobile AI application development, deep learning and recommender systems, internship and industry attachment, entrepreneurship and AI solutions, and basic and intermediate Korean language (a value-added option for global and Korea-related opportunities, not an employment requirement). Format per that guide: one year in three trimesters, 120 credits (1,200 hours), full-time, practical and project-based, more than 60% hands-on, maximum 20 students per class, assessed by practical tasks and projects rather than memorisation. It is beginner-friendly: no prior AI or coding experience is needed, only basic computer literacy and strong motivation.",
+    "ko": "웹사이트의 모듈: AI 기초, 머신러닝(지도·비지도 학습, 모델 훈련과 평가), 데이터 사이언스·분석(수집, 정제, 분석, 시각화), 신경망(딥러닝), AI 윤리와 사회, 그리고 실제 아프리카의 과제를 해결하는 캡스톤 프로젝트. 2026년 입학 안내서에는 AI 프로젝트를 위한 파이썬, 실제 프로젝트 기반 머신러닝, 데이터 처리와 응용 수학, 챗봇·대화형 AI, 모바일 AI 앱 개발, 딥러닝과 추천 시스템, 인턴십·산업 현장 실습, 창업과 AI 솔루션, 기초·중급 한국어(글로벌·한국 관련 기회를 위한 부가 과정이며 취업 필수 조건은 아님)가 추가로 나와 있습니다. 해당 안내서에 따른 운영 방식은 3학기제 1년, 120학점(1,200시간), 전일제, 실습·프로젝트 중심(60% 이상 실습), 학급당 최대 20명이며, 암기보다 실습 과제와 프로젝트로 평가합니다. 초보자도 지원할 수 있어 AI나 코딩 경험은 필요 없고 기본 컴퓨터 활용 능력과 강한 학습 의지면 충분합니다."
+   },
+   "keywords": [
+    "curriculum",
+    "modules",
+    "syllabus",
+    "what will i learn",
+    "learn",
+    "python",
+    "machine learning",
+    "capstone",
+    "class size",
+    "trimester",
+    "full-time",
+    "hands-on",
+    "교육과정",
+    "커리큘럼",
+    "배우",
+    "모듈",
+    "파이썬",
+    "캡스톤"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/certificates.html"
+  },
+  {
+   "id": "jewelry-curriculum-careers",
+   "section": "Programmes",
+   "title": {
+    "en": "Jewelry Design Certificate: curriculum and careers",
+    "ko": "Jewelry Design 자격과정: 교육과정과 진로"
+   },
+   "content": {
+    "en": "UAIT does not guarantee employment. The one-year Jewelry Design Certificate combines traditional African craftsmanship with modern design and digital fabrication. Website modules: Design Fundamentals; Metalworking Techniques; Gemology and Stone Setting; Digital Design and CAD (3D modelling); Business and Marketing; Portfolio and Exhibition. UAIT's 2026 admission guide adds casting and mould making, internship and industry attachment, a final artistic exhibition and Korean language, with more than 65% of the programme in studio work, maximum 20 students, full-time. The website says graduates are prepared to set up their own jewelry studios, work with established jewelry houses or continue to advanced art and design studies. The guide lists possible pathways: Jewelry Designer, Bench Jeweler or Metalsmith, CAD Jewelry Designer, Gemology Assistant, Jewelry Production Technician, Jewelry Business Owner, and Jewelry Sales and Marketing Specialist.",
+    "ko": "UAIT는 취업을 보장하지 않습니다. 1년 과정의 Jewelry Design 자격과정은 아프리카의 전통 공예와 현대 디자인, 디지털 제작 기술을 결합합니다. 웹사이트의 모듈: 디자인 기초, 금속 공예 기법, 보석학과 스톤 세팅, 디지털 디자인·CAD(3D 모델링), 비즈니스·마케팅, 포트폴리오·전시. 2026년 입학 안내서에는 주조·몰드 제작, 인턴십·산업 현장 실습, 졸업 전시, 한국어가 추가되어 있으며, 과정의 65% 이상이 스튜디오 실습이고 학급당 최대 20명, 전일제입니다. 웹사이트는 졸업생이 자신의 주얼리 스튜디오를 열거나 기존 주얼리 업체에서 일하거나 미술·디자인 상급 과정으로 진학할 수 있도록 준비시킨다고 안내합니다. 안내서가 제시하는 진로는 주얼리 디자이너, 벤치 주얼러·금속 공예가, CAD 주얼리 디자이너, 보석학 어시스턴트, 주얼리 생산 기술자, 주얼리 사업가, 주얼리 영업·마케팅 전문가입니다."
+   },
+   "keywords": [
+    "jewelry",
+    "jewellery",
+    "jewelry design",
+    "curriculum",
+    "modules",
+    "cad",
+    "gemology",
+    "metalsmith",
+    "careers",
+    "what will i learn",
+    "주얼리",
+    "커리큘럼",
+    "진로",
+    "보석학"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/certificates.html"
+  },
+  {
+   "id": "graduate-outcomes-2026",
+   "section": "Careers",
+   "title": {
+    "en": "Graduate outcomes reported in June 2026 (Jewelry Design)",
+    "ko": "2026년 6월 보고된 졸업생 진로 (Jewelry Design)"
+   },
+   "content": {
+    "en": "UAIT's news page of 22 June 2026 reports on the six graduates of the 2025/2026 Jewelry Design intake: two were employed in the jewelry industry (one straight after the internship), one was preparing to launch his own jewelry production company, two were seeking professional internships and one was building a professional portfolio. This is a very small first cohort, so it is an example of outcomes rather than a placement rate. UAIT's Deputy Vice Chancellor committed to continued guidance, mentorship and institutional support for graduates. No comparable outcomes report for AI Technology graduates was found.",
+    "ko": "UAIT가 2026년 6월 22일에 공개한 소식에 따르면 2025/2026학년도 Jewelry Design 졸업생 6명 중 2명은 주얼리 업계에 취업했고(1명은 인턴십 직후 바로 취업), 1명은 자신의 주얼리 생산 회사 창업을 준비 중이며, 2명은 전문 인턴십을 찾고 있고, 1명은 전문 포트폴리오를 만들고 있습니다. 매우 작은 첫 기수의 사례이므로 취업률이 아니라 하나의 사례로 보아야 합니다. 부총장은 졸업 후에도 지도, 멘토링, 기관 차원의 지원을 계속하겠다고 약속했습니다. AI Technology 졸업생에 대한 비슷한 진로 보고는 확인되지 않았습니다."
+   },
+   "keywords": [
+    "graduates",
+    "graduate outcomes",
+    "employed",
+    "alumni",
+    "where are they now",
+    "success",
+    "placement",
+    "졸업생",
+    "취업",
+    "동문",
+    "성과"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/news-jewelry-graduates-career-guidance.html"
+  },
+  {
+   "id": "career-support-internships",
+   "section": "Careers",
+   "title": {
+    "en": "Career support, internships and industry mentorship",
+    "ko": "진로 지원, 인턴십, 산업 멘토링"
+   },
+   "content": {
+    "en": "Internships and placements are not guaranteed by UAIT. UAIT's website lists these student career supports: industry mentorship, one-on-one career counselling, résumé and portfolio building, interview preparation, career-readiness workshops, introductions to employers, an alumni network, and startup support through innovation-hub partners. Internships are part of the programmes: the 2025-2026 Jewelry Design interns trained at Ngali Mining Ltd and Ktsobe Co Ltd in Rwanda, the Tanzania Gemological Center, and the Korea Jewelry Federation in South Korea. The published 2026-2027 calendar schedules an internship period of 3 to 21 May 2027 (Korea, Tanzania, Rwanda). The website also states a percentage of students who secure internships; that figure is not confirmed by the owner, so quote it only as a website claim and refer to admissions.",
+    "ko": "UAIT는 인턴십과 취업을 보장하지 않습니다. UAIT 웹사이트가 안내하는 학생 진로 지원은 산업계 멘토링, 1:1 진로 상담, 이력서·포트폴리오 작성 지원, 면접 준비, 취업 준비 워크숍, 고용주 소개, 동문 네트워크, 혁신 허브 파트너를 통한 창업 지원입니다. 인턴십은 과정의 일부이며, 2025-2026학년도 Jewelry Design 인턴들은 르완다의 Ngali Mining Ltd와 Ktsobe Co Ltd, 탄자니아 보석학센터(Tanzania Gemological Center), 한국의 한국주얼리협회(Korea Jewelry Federation)에서 실습했습니다. 공개된 2026-2027 학사 일정에는 2027년 5월 3일~21일 인턴십 기간(한국, 탄자니아, 르완다)이 있습니다. 웹사이트에는 인턴십을 구하는 학생 비율도 적혀 있지만 학교의 확인을 받지 않은 수치이므로 웹사이트의 주장으로만 소개하고 입학처에 문의하도록 안내하세요."
+   },
+   "keywords": [
+    "internship",
+    "internships",
+    "industry attachment",
+    "mentorship",
+    "career services",
+    "career counselling",
+    "placement",
+    "alumni",
+    "employers",
+    "인턴십",
+    "멘토링",
+    "진로 상담",
+    "취업 지원",
+    "동문"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/advantage.html"
+  },
+  {
+   "id": "industry-partners",
+   "section": "Partnerships",
+   "title": {
+    "en": "Industry, education, NGO and Rwanda partners",
+    "ko": "산업·교육·NGO·르완다 파트너"
+   },
+   "content": {
+    "en": "UAIT's partnerships page lists 19 partners. Industry partners and collaboration model: Nike East Africa Ltd (internships), SPRTA (technical training), Otiga Studios (project collaboration), NOW 101.9 FM (internships), IKIREZI Natural Products (business collaboration), Norrsken Foundation (mentorship and funding), Westerwelle Foundation (startup support), kLab Rwanda (technical training and mentorship). Education partners: University of Rwanda (academic partnership), NYU (faculty exchange), INILAK (student exchange). NGO partners: USAID Rwanda, World Vision Rwanda, Plan International Rwanda. Rwanda partners: Rwanda Development Board, City of Kigali, RISA, Rwanda TVET Board (accreditation and quality assurance) and Rwanda Correctional Service. Technology partners shown: O2&B MCDI Technology and WIKI Security. UAIT also hosted the Arise AI Agency fellowship programme on campus (October 2025). Being a partner does not mean a job or internship is guaranteed.",
+    "ko": "UAIT 파트너십 페이지에는 19개 파트너가 나와 있습니다. 산업 파트너와 협력 방식: Nike East Africa Ltd(인턴십), SPRTA(기술 교육), Otiga Studios(프로젝트 협력), NOW 101.9 FM(인턴십), IKIREZI Natural Products(비즈니스 협력), Norrsken Foundation(멘토링·자금), Westerwelle Foundation(창업 지원), kLab Rwanda(기술 교육·멘토링). 교육 파트너: 르완다대학교(학술 협력), NYU(교수 교류), INILAK(학생 교류). NGO 파트너: USAID Rwanda, World Vision Rwanda, Plan International Rwanda. 르완다 파트너: 르완다개발위원회(RDB), 키갈리시, RISA, 르완다 TVET 위원회(인가·품질 보증), 르완다 교정청. 기술 파트너로 O2&B MCDI Technology와 WIKI Security가 소개되어 있습니다. 또한 2025년 10월 Arise AI Agency의 펠로우십 프로그램을 캠퍼스에서 개최했습니다. 파트너라고 해서 취업이나 인턴십이 보장되는 것은 아닙니다."
+   },
+   "keywords": [
+    "partners",
+    "partnership",
+    "partnerships",
+    "industry partners",
+    "nike",
+    "klab",
+    "norrsken",
+    "university of rwanda",
+    "nyu",
+    "rdb",
+    "companies",
+    "collaboration",
+    "파트너",
+    "협력",
+    "제휴"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/partnerships.html"
+  },
+  {
+   "id": "faculty-leadership",
+   "section": "Institution",
+   "title": {
+    "en": "Leadership and faculty",
+    "ko": "운영진과 교수진"
+   },
+   "content": {
+    "en": "UAIT's website names Vice Chancellor Dr. Chang Ki Lee. The faculty page lists the administration as Dr. Lee (Vice Chancellor), Prof. Jaeseok Kim and Prof. Yongrak Shin (External Deputy Vice Chancellors), Prof. Jinho Park (Director of Planning), Jean Marie (General Manager) and Bernard (Academic and Admissions Administrative Officer). Teaching staff are grouped by subject: AI Technology (Sang-il Hwang, Duk Young Jeon, Byung Tae Ahn, Jong-Duk Kim, Sulkil Lim, Vital Ahishakiye), Jewelry Design (eight lecturers) and Korean Language (Mi-Young Yu). The website describes UAIT as a higher-learning institution in Kimihurura, Kigali, focused on TVET, science and technology, with certificate programmes approved by the Rwanda TVET Board.",
+    "ko": "UAIT 웹사이트는 이장기(Chang Ki Lee) 총장(Vice Chancellor)을 소개합니다. 교수진 페이지의 운영진은 Dr. Lee(총장), Jaeseok Kim 교수와 Yongrak Shin 교수(대외 부총장), Jinho Park 교수(기획처장), Jean Marie(총괄 매니저), Bernard(학사·입학 행정 담당)입니다. 교수진은 과목별로 AI Technology(Sang-il Hwang, Duk Young Jeon, Byung Tae Ahn, Jong-Duk Kim, Sulkil Lim, Vital Ahishakiye), Jewelry Design(강사 8명), 한국어(Mi-Young Yu)로 나뉩니다. 웹사이트는 UAIT를 키갈리 키미후루라에 있는 TVET·과학기술 중심의 고등교육기관으로 소개하며, 자격과정은 르완다 TVET 위원회의 승인을 받았다고 안내합니다."
+   },
+   "keywords": [
+    "faculty",
+    "lecturer",
+    "lecturers",
+    "professor",
+    "professors",
+    "who teaches",
+    "teachers",
+    "instructors",
+    "vice chancellor",
+    "leadership",
+    "director",
+    "staff",
+    "교수",
+    "강사",
+    "총장",
+    "교수진",
+    "운영진"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/faculty.html"
+  },
+  {
+   "id": "mission-vision-values",
+   "section": "Institution",
+   "title": {
+    "en": "Vision, mission and values",
+    "ko": "비전, 미션, 핵심 가치"
+   },
+   "content": {
+    "en": "Vision: to become Africa's premier institution for technological education and innovation, in a continent where local talent drives global technological advancement. Mission: to provide world-class technological education that combines academic excellence with practical innovation, fostering the next generation of African tech leaders. Core values: Excellence, African Impact, Collaboration, Innovation, Growth and Practical Learning. In the Vice Chancellor's message, UAIT aims to support Rwanda's Vision 2050 and to graduate students with advanced technology and sound ethics.",
+    "ko": "비전: 아프리카 최고의 기술 교육·혁신 기관이 되어, 현지 인재가 세계 기술 발전을 이끄는 대륙을 만드는 것. 미션: 학문적 우수성과 실용적 혁신을 결합한 세계 수준의 기술 교육을 제공하여 차세대 아프리카 기술 리더를 길러내는 것. 핵심 가치: 탁월함, 아프리카에 대한 영향력, 협력, 혁신, 성장, 실용 학습. 총장 메시지에서 UAIT는 르완다의 Vision 2050에 기여하고 첨단 기술과 올바른 윤리를 겸비한 학생을 배출하겠다고 밝혔습니다."
+   },
+   "keywords": [
+    "vision",
+    "mission",
+    "values",
+    "about uait",
+    "about",
+    "core values",
+    "who is uait",
+    "비전",
+    "미션",
+    "가치",
+    "소개"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/about.html"
+  },
+  {
+   "id": "student-support-calendar",
+   "section": "Student life",
+   "title": {
+    "en": "Student services and the 2026-2027 academic calendar",
+    "ko": "학생 지원 서비스와 2026-2027 학사 일정"
+   },
+   "content": {
+    "en": "UAIT's Student Life page lists: an academic portal, laboratory access, a digital library, career services, student organisations, academic support and advising, counselling and wellness support, housing assistance (help finding accommodation near campus), financial aid information, international student services (visa and integration help) and an IT help desk. The page gives no details such as hours, access links, costs or eligibility, so refer visitors to admissions for specifics. Published 2026-2027 calendar (as of 1 April 2026), which applies to students already enrolled: Trimester 1 from 11 May to 31 July 2026; Trimester 2 from 31 August to 20 November 2026; Trimester 3 from 4 January to 26 March 2027; examinations in April 2027; internship 3 to 21 May 2027; second commencement 4 June 2027. Each trimester has 12 teaching weeks, one revision week and one examination week. This does not give the class start date of the 2027/2028 intake, which is not confirmed.",
+    "ko": "UAIT 학생 생활 페이지에는 학업 포털, 실습실 이용, 디지털 도서관, 진로 서비스, 학생 단체, 학업 지원·상담, 심리·웰빙 지원, 주거 지원(캠퍼스 근처 숙소 찾기 도움), 재정 지원 정보, 유학생 서비스(비자·적응 지원), IT 헬프데스크가 소개되어 있습니다. 운영 시간, 이용 링크, 비용, 자격 조건 같은 세부 정보는 없으므로 자세한 내용은 입학처에 문의하도록 안내하세요. 2026년 4월 1일 기준으로 공개된 2026-2027 학사 일정(재학생 대상): 1학기 2026년 5월 11일~7월 31일, 2학기 2026년 8월 31일~11월 20일, 3학기 2027년 1월 4일~3월 26일, 시험 2027년 4월, 인턴십 2027년 5월 3일~21일, 제2회 졸업식 2027년 6월 4일. 각 학기는 수업 12주, 복습 1주, 시험 1주로 구성됩니다. 이 일정은 2027/2028학년도 신입생의 개강일을 알려 주지 않으며, 그 날짜는 확인되지 않았습니다."
+   },
+   "keywords": [
+    "student life",
+    "portal",
+    "library",
+    "counselling",
+    "counseling",
+    "housing",
+    "accommodation",
+    "calendar",
+    "academic calendar",
+    "trimester",
+    "term dates",
+    "exams",
+    "internship dates",
+    "학생 생활",
+    "포털",
+    "도서관",
+    "상담",
+    "기숙사",
+    "학사 일정",
+    "시험"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/students.html"
+  },
+  {
+   "id": "admission-requirements-by-category",
+   "section": "Admissions",
+   "title": {
+    "en": "Admission requirements for Rwandan and international applicants",
+    "ko": "르완다·국제 지원자 입학 요건"
+   },
+   "content": {
+    "en": "General requirements on the Admission Requirements page: completed secondary education with satisfactory results, English proficiency (English is the language of instruction), the application form, the non-refundable application fee, the required documents and an admission interview (in person or virtual for international applicants). Rwandan applicants: notarised copy of the Advanced Senior Six (S6) certificate, one recent passport-sized photo with a white background, a copy of the National ID, proof of application-fee payment, the secondary-school transcript, and a letter of recommendation (optional but preferred). International applicants: notarised copy of the high-school diploma or certificate, passport-sized photo, a copy of a valid passport, proof of application-fee payment, official transcripts translated into English if needed, IELTS or TOEFL results if applicable, a letter of recommendation from a teacher or employer, and financial-support documentation. Programme-specific items: AI Technology - basic mathematics, computer literacy, interest in AI and problem solving; Jewelry Design - an artistic portfolio (5 to 10 pieces), creative background, fine motor skills and attention to detail. The AI Technology admission guide also accepts A2 or a TVET Level 5 ICT certificate and says no prior AI or coding experience is required. Keep Rwandan and international lists separate, and check the current guide with admissions.",
+    "ko": "입학 요건 페이지의 공통 요건: 우수한 성적의 중등교육 이수, 영어 능력(수업 언어는 영어), 지원서, 환불되지 않는 지원비, 필수 서류, 입학 면접(국제 지원자는 대면 또는 온라인). 르완다 지원자: 공증된 고등학교 6학년(S6) 수료증 사본, 최근 여권 사진 1장(흰 배경), 국가 신분증 사본, 지원비 납부 증빙, 중등 성적증명서, 추천서(선택이지만 권장). 국제 지원자: 공증된 고등학교 졸업장·수료증 사본, 여권 사진, 유효한 여권 사본, 지원비 납부 증빙, 필요 시 영어로 번역된 공식 성적증명서, 해당되는 경우 IELTS 또는 TOEFL 성적, 교사나 고용주의 추천서, 재정 지원 증빙 서류. 과정별 항목: AI Technology는 기초 수학, 컴퓨터 활용 능력, AI에 대한 관심, 문제 해결력, Jewelry Design은 작품 포트폴리오(5~10점), 창작 배경, 섬세한 손놀림, 꼼꼼함입니다. AI Technology 입학 안내서는 A2 또는 TVET 5급 ICT 자격도 인정하며 AI·코딩 경험은 필요하지 않다고 안내합니다. 르완다와 국제 지원자 목록은 섞지 말고, 최신 안내서는 입학처에 확인하도록 안내하세요."
+   },
+   "keywords": [
+    "requirements",
+    "admission requirements",
+    "rwandan",
+    "international",
+    "eligibility",
+    "documents",
+    "s6",
+    "a2",
+    "ielts",
+    "toefl",
+    "passport",
+    "who can apply",
+    "입학 요건",
+    "르완다",
+    "국제",
+    "자격",
+    "서류"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/admission-requirements.html"
+  },
+  {
+   "id": "recent-news-2026",
+   "section": "News",
+   "title": {
+    "en": "Recent UAIT news (2025-2026)",
+    "ko": "UAIT 최근 소식 (2025-2026)"
+   },
+   "content": {
+    "en": "Recent items on UAIT's News page: on 28 June 2026 the Rwanda TVET Board's verification team reviewed student portfolios and the learning process and reported that 2025/2026 students who completed their studies and internship met all graduation requirements; on 23 June 2026 the Rwanda ICT Chamber confirmed UAIT as a host institution for Smart Ibiruhuko 2026 (holiday training in AI, cybersecurity and digital skills); on 22 June 2026 Jewelry Design graduates met the Deputy Vice Chancellor for career guidance; on 14 and 15 July 2026 UAIT hosted the Sejong Culture Academy with the Korean Embassy; on 30 April 2026 UAIT held orientation for the 2026-2027 intake; on 30 October 2025 UAIT received RTB authorisation for its one-year AI Technology programme; and in October 2025 UAIT began hosting the Arise AI Agency fellowship. Direct visitors to the News page for the latest.",
+    "ko": "UAIT 소식 페이지의 최근 내용: 2026년 6월 28일 르완다 TVET 위원회 검증팀이 학생 포트폴리오와 학습 과정을 점검하고 학업과 인턴십을 마친 2025/2026학년도 학생들이 모든 졸업 요건을 충족했다고 확인했습니다. 2026년 6월 23일 르완다 ICT 상공회의소가 UAIT를 Smart Ibiruhuko 2026(방학 중 AI·사이버 보안·디지털 기술 교육)의 개최 기관으로 확정했습니다. 2026년 6월 22일 Jewelry Design 졸업생들이 부총장과 진로 상담 시간을 가졌습니다. 2026년 7월 14~15일 UAIT는 주르완다 한국대사관과 함께 세종문화아카데미를 열었습니다. 2026년 4월 30일 2026-2027학년도 신입생 오리엔테이션이 열렸습니다. 2025년 10월 30일 1년 과정 AI Technology 프로그램에 대한 RTB 승인을 받았습니다. 2025년 10월 Arise AI Agency의 펠로우십을 캠퍼스에서 개최하기 시작했습니다. 최신 소식은 뉴스 페이지에서 확인하도록 안내하세요."
+   },
+   "keywords": [
+    "news",
+    "events",
+    "announcement",
+    "rtb",
+    "smart ibiruhuko",
+    "sejong",
+    "orientation",
+    "arise ai",
+    "accreditation",
+    "latest",
+    "소식",
+    "뉴스",
+    "행사",
+    "공지"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/news.html"
+  },
+  {
+   "id": "why-uait",
+   "section": "Institution",
+   "title": {
+    "en": "Why choose UAIT",
+    "ko": "UAIT를 선택해야 하는 이유"
+   },
+   "content": {
+    "en": "UAIT offers practical one-year certificates in AI Technology and Jewelry Design that need no prior experience, and the AI Technology Certificate is authorized by the Rwanda TVET Board. Learning is hands-on (projects, a capstone on an African challenge, an AI lab), with industry mentorship, career support and internships built in, though UAIT does not guarantee jobs, salaries or internships.",
+    "ko": "UAIT는 사전 경험이 필요 없는 실무 중심 1년 자격과정(AI Technology, Jewelry Design)을 운영하며, AI Technology 과정은 르완다 TVET 위원회의 인가를 받았습니다. 프로젝트, 아프리카 과제 캡스톤, AI 실습실 등 실습 중심 수업에 산업 멘토링과 취업 지원, 인턴십이 포함되어 있지만 취업·급여·인턴십은 보장하지 않습니다."
+   },
+   "keywords": [
+    "why choose uait",
+    "why uait",
+    "why choose",
+    "choose uait",
+    "advantages",
+    "benefits",
+    "better",
+    "worth it",
+    "good school",
+    "reputation",
+    "special",
+    "unique",
+    "stand out",
+    "왜",
+    "장점",
+    "선택",
+    "이유"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/advantage.html"
+  },
+  {
+   "id": "curriculum-modules",
+   "section": "Programmes",
+   "title": {
+    "en": "Curriculum modules of the open certificates",
+    "ko": "개설 과정 커리큘럼 모듈"
+   },
+   "content": {
+    "en": "AI Technology Certificate (12 months) modules: AI Fundamentals; Machine Learning (supervised and unsupervised learning, model training and evaluation); Data Science and Analytics (collecting, cleaning, analysing and visualising data); Neural Networks (deep learning and frameworks); AI Ethics and Society (bias and responsible AI); and a Capstone Project that builds an AI solution for a real African challenge. The programmes page also lists AI application development and an industry project portfolio. Jewelry Design Certificate (one year, three terms) modules: Design Fundamentals (colour theory, sketching, African design heritage); Metalworking Techniques (hand fabrication, soldering, forming, texturing, finishing); Gemology and Stone Setting; Digital Design and CAD (3D modelling and digital fabrication); Business and Marketing (pricing, digital marketing); and Portfolio and Exhibition. Third-term Jewelry Design projects included digital fabrication, an artistic exhibition and an industry internship in April to May.",
+    "ko": "AI Technology 자격과정(12개월) 모듈: AI 기초, 머신러닝(지도·비지도 학습, 모델 학습과 평가), 데이터 사이언스·분석(수집, 정제, 분석, 시각화), 신경망(딥러닝과 프레임워크), AI 윤리와 사회(편향, 책임 있는 AI), 그리고 아프리카의 실제 과제를 해결하는 AI 솔루션을 만드는 캡스톤 프로젝트. 과정 소개 페이지에는 AI 응용 개발과 산업 프로젝트 포트폴리오도 나와 있습니다. Jewelry Design 자격과정(1년, 3학기) 모듈: 디자인 기초(색채 이론, 스케치, 아프리카 디자인 유산), 금속 가공(수작업 제작, 납땜, 성형, 질감, 마감), 보석학과 보석 세팅, 디지털 디자인·CAD(3D 모델링, 디지털 제작), 비즈니스·마케팅(가격 책정, 디지털 마케팅), 포트폴리오·전시. 3학기에는 디지털 제작, 예술 전시, 4~5월 산업 인턴십이 포함되었습니다."
+   },
+   "keywords": [
+    "curriculum",
+    "modules",
+    "syllabus",
+    "what will i learn",
+    "learn",
+    "subjects",
+    "courses",
+    "machine learning",
+    "neural networks",
+    "data science",
+    "capstone",
+    "metalworking",
+    "gemology",
+    "cad",
+    "커리큘럼",
+    "모듈",
+    "배우",
+    "과목"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/certificates.html"
+  },
+  {
+   "id": "career-ai-quick",
+   "section": "Careers",
+   "title": {
+    "en": "Careers with the AI Technology Certificate (quick answer)",
+    "ko": "AI Technology 자격과정 진로(요약)"
+   },
+   "content": {
+    "en": "UAIT does not guarantee a job, salary or internship. After the AI Technology Certificate, UAIT's website says graduates are prepared for careers in AI development, data analysis and intelligent systems design, and to join Africa's growing AI and technology sector. Realistic entry roles named in the 2026 admission guide are Junior AI Technician or AI Assistant, Data or Digital Assistant, Machine Learning Assistant, NGO or startup AI support, or further study in AI and ICT. What helps you get there: an AI project portfolio, projects on agriculture, healthcare diagnostics and financial inclusion, a capstone, industry mentorship, career placement assistance, certification preparation, and partners such as kLab Rwanda, SPRTA and WIKI Security.",
+    "ko": "UAIT는 취업, 급여, 인턴십을 보장하지 않습니다. AI Technology 자격과정을 마치면 UAIT 웹사이트에 따르면 AI 개발, 데이터 분석, 지능형 시스템 설계 분야의 진로와 아프리카의 성장하는 AI·기술 분야로의 진출을 준비하게 됩니다. 2026 입학 안내서에 나온 초급 진로는 주니어 AI 기술자 또는 AI 어시스턴트, 데이터·디지털 어시스턴트, 머신러닝 어시스턴트, NGO·스타트업 AI 지원, 또는 AI·ICT 분야 진학입니다. 도움이 되는 요소: AI 프로젝트 포트폴리오, 농업·의료 진단·금융 포용 프로젝트, 캡스톤, 산업계 멘토링, 취업 지원, 인증 시험 준비, kLab Rwanda·SPRTA·WIKI Security 같은 파트너."
+   },
+   "keywords": [
+    "ai career",
+    "ai jobs",
+    "career in ai",
+    "ai technician",
+    "data analyst",
+    "machine learning assistant",
+    "AI 진로"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/certificates.html"
+  },
+  {
+   "id": "career-jewelry-quick",
+   "section": "Careers",
+   "title": {
+    "en": "Careers with the Jewelry Design Certificate (quick answer)",
+    "ko": "Jewelry Design 자격과정 진로(요약)"
+   },
+   "content": {
+    "en": "UAIT does not guarantee a job, salary or internship. After the Jewelry Design Certificate, UAIT's website says graduates are prepared to open their own jewelry studios, work with established jewelry houses, or continue to advanced art and design study. Pathways listed in UAIT's materials include Jewelry Designer, Bench Jeweler or Metalsmith, CAD Jewelry Designer, Gemology Assistant, Jewelry Production Technician, Jewelry Business Owner, Sales and Marketing Specialist, and further roles such as Jewelry Photographer, Jewelry Instructor, Curator, Digital Fabrication (3D printing) Specialist and Luxury Brand Consultant. Support includes portfolio building, exhibition opportunities, ethical-sourcing and business training, and internships in Rwanda, Tanzania and South Korea. Of the six 2025/2026 graduates reported in June 2026, two were employed in the industry and one was preparing to launch a jewelry company.",
+    "ko": "UAIT는 취업, 급여, 인턴십을 보장하지 않습니다. Jewelry Design 자격과정을 마치면 UAIT 웹사이트에 따르면 자신의 주얼리 스튜디오 개설, 기존 주얼리 하우스 취업, 또는 예술·디자인 상급 학업 진학을 준비하게 됩니다. UAIT 자료의 진로: 주얼리 디자이너, 벤치 주얼러·금속공예가, CAD 주얼리 디자이너, 보석학 어시스턴트, 주얼리 생산 기술자, 주얼리 사업가, 영업·마케팅 전문가, 그리고 주얼리 사진가, 강사, 큐레이터, 디지털 제작(3D 프린팅) 전문가, 럭셔리 브랜드 컨설턴트 등. 지원 요소: 포트폴리오 제작, 전시 기회, 윤리적 소싱·비즈니스 교육, 르완다·탄자니아·한국 인턴십. 2026년 6월 보고된 2025/2026 졸업생 6명 중 2명은 업계에 취업했고 1명은 주얼리 회사 창업을 준비 중입니다."
+   },
+   "keywords": [
+    "jewelry career",
+    "jewelry jobs",
+    "jewellery jobs",
+    "become a jeweler",
+    "jewelry designer",
+    "bench jeweler",
+    "own studio",
+    "주얼리 진로"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/certificates.html"
+  },
+  {
+   "id": "internship-2025-2026",
+   "section": "Careers",
+   "title": {
+    "en": "2025-2026 internship programme (Jewelry Design)",
+    "ko": "2025-2026 인턴십 프로그램(Jewelry Design)"
+   },
+   "content": {
+    "en": "UAIT does not guarantee internships or placements; these are past examples. Six Jewelry Design interns trained in three countries in the 2025-2026 intake: in Rwanda at Ngali Mining Ltd (minerals and raw-material handling) and Ktsobe Co Ltd (production training); in Tanzania at the Tanzania Gemological Center (working with gemstones and metals, producing a ring and a chain); and in South Korea at the Korea Jewelry Federation (CAD training, gemstone evaluation, and a visit to the KC Gold Exchange). Two students spent three weeks in South Korea in May 2026. Staff and the Vice Chancellor followed their progress, and interns presented what they learned on return. The 2026-2027 calendar schedules an internship period of 3 to 21 May 2027.",
+    "ko": "UAIT는 인턴십이나 배치를 보장하지 않으며 아래는 과거 사례입니다. 2025-2026 기수 Jewelry Design 인턴 6명이 3개국에서 실습했습니다. 르완다의 Ngali Mining Ltd(광물·원자재 취급)와 Ktsobe Co Ltd(생산 실습), 탄자니아 보석학센터(보석과 금속 작업, 반지와 체인 제작), 한국주얼리협회(CAD 교육, 보석 감정, KC 금거래소 방문). 학생 2명은 2026년 5월 한국에서 3주간 실습했습니다. 직원과 총장이 진행 상황을 확인했고 인턴들은 귀국 후 배운 내용을 발표했습니다. 2026-2027 일정에는 2027년 5월 3일~21일 인턴십 기간이 있습니다."
+   },
+   "keywords": [
+    "internship",
+    "internships",
+    "interns",
+    "south korea",
+    "tanzania",
+    "ngali",
+    "ktsobe",
+    "korea jewelry federation",
+    "tanzania gemological center",
+    "abroad",
+    "attachment",
+    "인턴십",
+    "한국",
+    "탄자니아"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/news-internship-program.html"
+  },
+  {
+   "id": "piano-performance-site",
+   "section": "Programmes",
+   "title": {
+    "en": "Piano Performance Certificate on the website",
+    "ko": "웹사이트의 Piano Performance 자격과정"
+   },
+   "content": {
+    "en": "UAIT's certificates page describes a one-year Piano Performance Certificate in the School of Creative Arts and Design, with modules in piano technique, classical repertoire, African music traditions, jazz and contemporary styles, music theory and analysis, and performance and recital. The owner-approved status is that it is coming soon and not open for the 2027/2028 intake; the current application page covers only AI Technology and Jewelry Design. Separate Community Academy piano classes do exist and are joined through admissions.",
+    "ko": "UAIT 자격과정 페이지에는 창의예술·디자인 학부의 1년 Piano Performance 자격과정이 소개되어 있으며 피아노 테크닉, 클래식 레퍼토리, 아프리카 음악 전통, 재즈·현대 스타일, 음악 이론·분석, 공연·리사이틀 모듈이 있습니다. 학교가 확인한 상태는 개설 예정이며 2027/2028 모집에는 열려 있지 않다는 것이고, 현재 지원 페이지는 AI Technology와 Jewelry Design만 다룹니다. 별도의 커뮤니티 아카데미 피아노 수업은 있으며 입학처를 통해 등록합니다."
+   },
+   "keywords": [
+    "piano performance",
+    "piano certificate",
+    "music",
+    "piano",
+    "recital",
+    "피아노 연주",
+    "피아노"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/certificates.html"
+  },
+  {
+   "id": "coming-soon-curricula",
+   "section": "Programmes",
+   "title": {
+    "en": "Coming-soon programmes: planned content",
+    "ko": "개설 예정 과정의 계획 내용"
+   },
+   "content": {
+    "en": "Not open yet and no launch dates confirmed. Drone Technology Certificate (one year): UAV systems and components, flight operations and safety, aerial photography and mapping, commercial applications, regulatory compliance. Cyber Security Certificate (one year): network security fundamentals, ethical hacking and penetration testing, digital forensics, risk management, security compliance. Advanced Diploma Programs (three years): engineering and technology programmes with industry internships, research projects, professional certification and career placement support. The homepage has an interest list for updates on the coming-soon programmes.",
+    "ko": "아직 열리지 않았고 개설일은 확정되지 않았습니다. 드론 기술 자격과정(1년): UAV 시스템·부품, 비행 운영·안전, 항공 촬영·측량, 상업적 활용, 규정 준수. 사이버 보안 자격과정(1년): 네트워크 보안 기초, 윤리적 해킹·침투 테스트, 디지털 포렌식, 위험 관리, 보안 규정 준수. 고급 디플로마 과정(3년): 산업 인턴십, 연구 프로젝트, 전문 자격, 취업 지원이 포함된 공학·기술 과정. 홈페이지에서 개설 예정 과정의 소식을 받을 관심 목록에 등록할 수 있습니다."
+   },
+   "keywords": [
+    "drone",
+    "cyber security",
+    "advanced diploma",
+    "three year",
+    "coming soon",
+    "interest list",
+    "드론",
+    "사이버 보안",
+    "고급 디플로마"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/programs.html"
+  },
+  {
+   "id": "community-academy-join",
+   "section": "Community Academy",
+   "title": {
+    "en": "How to join a Community Academy class",
+    "ko": "커뮤니티 아카데미 수강 방법"
+   },
+   "content": {
+    "en": "Community Academy classes are Piano Class, Korean Language and Computer Class, for beginners to intermediate learners and all ages, with flexible schedules; fees are not published. Do not use the certificate Google Form: contact admissions by email or phone (Monday to Friday, 9:00 AM to 5:00 PM) and say which class you want, your preferred times, your level (beginner or intermediate) and your contact details. The Computer Class covers basic computer operations, internet and email, Microsoft Office and digital safety.",
+    "ko": "커뮤니티 아카데미 수업은 피아노, 한국어, 컴퓨터 수업이며 초급~중급, 모든 연령, 유연한 시간표로 운영되고 수강료는 공개되어 있지 않습니다. 자격과정 구글 폼을 쓰지 말고 입학처에 이메일이나 전화(월~금 오전 9시~오후 5시)로 연락하여 원하는 수업, 선호 시간, 수준(초급·중급), 연락처를 알려 주세요. 컴퓨터 수업은 기본 컴퓨터 조작, 인터넷·이메일, 마이크로소프트 오피스, 디지털 안전을 다룹니다."
+   },
+   "keywords": [
+    "community academy",
+    "join class",
+    "piano class",
+    "korean class",
+    "computer class",
+    "enroll",
+    "register",
+    "커뮤니티 아카데미",
+    "수강"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/community-academy-application.html"
+  },
+  {
+   "id": "scholarships-site",
+   "section": "Fees",
+   "title": {
+    "en": "Scholarships and financial support (what is published)",
+    "ko": "장학금·재정 지원(공개된 내용)"
+   },
+   "content": {
+    "en": "I can't confirm scholarship amounts, places or criteria because UAIT hasn't published them. UAIT's Fees page says it offers scholarship programmes based on academic merit, financial need and special talents, and the How to Apply page says scholarship recipients are selected through a competitive admission process. Plan International Rwanda is listed as a partner for scholarship programmes.  Applicants should ask admissions for details. Payment plans (instalments) are available through the admissions office.",
+    "ko": "장학금 금액, 인원, 기준은 UAIT가 공개하지 않아 확인해 드릴 수 없습니다. UAIT 학비 페이지는 학업 성적, 재정 필요, 특별한 재능에 따른 장학 프로그램을 제공한다고 안내하며, 지원 방법 페이지는 장학생이 경쟁적인 입학 절차로 선발된다고 설명합니다. Plan International Rwanda가 장학 프로그램 파트너로 나와 있습니다. 자세한 내용은 입학처에 문의하세요. 분할 납부는 입학처를 통해 가능합니다."
+   },
+   "keywords": [
+    "scholarship",
+    "scholarships",
+    "financial aid",
+    "bursary",
+    "funding",
+    "free",
+    "discount",
+    "merit",
+    "need",
+    "장학금",
+    "재정 지원"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/fees-payments.html"
+  },
+  {
+   "id": "fees-page-policies",
+   "section": "Fees",
+   "title": {
+    "en": "Payment policies on the Fees page",
+    "ko": "학비 페이지의 납부 정책"
+   },
+   "content": {
+    "en": "UAIT's Fees page states: fees quoted in USD can be paid in RWF at the current exchange rate; fees must be paid before the start of each semester; a 5% penalty applies to payments made after the deadline; payment plans are available through admissions; keep every receipt; and a refund policy is available on request with some restrictions. The application and admission fees themselves are required only after official admission confirmation, and the application fee is non-refundable.",
+    "ko": "UAIT 학비 페이지에 따르면 USD로 표시된 학비는 현재 환율로 RWF 납부가 가능하고, 각 학기 시작 전에 납부해야 하며, 마감 후 납부에는 5% 연체료가 부과되고, 분할 납부는 입학처를 통해 가능하며, 영수증은 보관해야 하고, 환불 정책은 요청 시 제공되며 일부 제한이 있습니다. 지원비와 입학비는 공식 입학 확정 후에만 납부하며 지원비는 환불되지 않습니다."
+   },
+   "keywords": [
+    "refund",
+    "currency",
+    "rwf",
+    "usd",
+    "exchange rate",
+    "installment",
+    "late fee",
+    "penalty",
+    "receipt",
+    "deadline to pay",
+    "환불",
+    "환율",
+    "연체료"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/fees-payments.html"
+  },
+  {
+   "id": "requirements-page-program-specific",
+   "section": "Admissions",
+   "title": {
+    "en": "Program-specific requirements on the older Requirements page",
+    "ko": "요구사항 페이지의 과정별 조건"
+   },
+   "content": {
+    "en": "UAIT's Admission Requirements page lists suggested strengths: for AI Technology, basic mathematics, computer literacy, interest in AI and problem-solving; for Jewelry Design, an artistic portfolio of 5 to 10 pieces, creative background, fine motor skills and attention to detail. The current How to Apply page and admission guide say no prior coding or jewelry experience is needed and that portfolio, recommendation letter and evidence of tech interest are optional, so treat these as helpful strengths, not strict conditions, and confirm with admissions. The page also mentions English proficiency, an interview (in person or virtual for international applicants), and for international applicants a notarized certificate, passport copy, translated transcripts and financial-support documents.",
+    "ko": "UAIT 입학 요건 페이지는 권장 역량을 안내합니다. AI Technology는 기초 수학, 컴퓨터 활용 능력, AI에 대한 관심, 문제 해결력, Jewelry Design은 5~10점의 작품 포트폴리오, 창의적 배경, 섬세한 손기술, 세심함입니다. 현재 지원 방법 페이지와 입학 안내서는 코딩이나 주얼리 경험이 필요 없고 포트폴리오, 추천서, 기술 관심 증빙은 선택이라고 하므로 이는 엄격한 조건이 아니라 도움이 되는 강점으로 보고 입학처에 확인하세요. 이 페이지는 영어 능력, 면접(국제 지원자는 대면 또는 온라인), 국제 지원자의 공증 증명서, 여권 사본, 번역 성적표, 재정 지원 서류도 언급합니다."
+   },
+   "keywords": [
+    "eligibility",
+    "requirements",
+    "who can apply",
+    "math",
+    "coding",
+    "portfolio",
+    "english",
+    "ielts",
+    "toefl",
+    "interview",
+    "do i need",
+    "자격",
+    "요건",
+    "영어",
+    "면접"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/admission-requirements.html"
+  },
+  {
+   "id": "vc-message-vision",
+   "section": "Institution",
+   "title": {
+    "en": "Vice Chancellor's message and long-term vision",
+    "ko": "총장 메시지와 장기 비전"
+   },
+   "content": {
+    "en": "In his message, Vice Chancellor Chang Ki Lee says UAIT is using Rwanda as its base to enter other African countries, with a vision of eventually establishing 10 overseas campuses. UAIT aims to support Rwanda's Vision 2050 by developing programmes for Rwandan youth and producing students 'armed with advanced technology' and sound ethics. The campus is at 2 KG28 Ave, Kimihurura, Gasabo, Kigali, and UAIT has also shown a Bugesera campus and a Tanzania site in its project pages.",
+    "ko": "총장 Chang Ki Lee는 메시지에서 UAIT가 르완다를 거점으로 다른 아프리카 국가로 진출하며 장기적으로 해외 캠퍼스 10곳 설립을 비전으로 한다고 밝혔습니다. UAIT는 르완다 청년을 위한 프로그램을 개발해 르완다 Vision 2050에 기여하고 첨단 기술과 올바른 윤리를 갖춘 학생을 길러내려 합니다. 캠퍼스는 키갈리 가시모 키미후루라 2 KG28 Ave에 있으며, 프로젝트 페이지에는 부게세라 캠퍼스와 탄자니아 부지도 소개되어 있습니다."
+   },
+   "keywords": [
+    "vice chancellor",
+    "vision 2050",
+    "campuses",
+    "overseas",
+    "expansion",
+    "location",
+    "where",
+    "chang ki lee",
+    "총장",
+    "캠퍼스",
+    "비전 2050"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/about.html"
+  },
+  {
+   "id": "news-timeline-2025-2026",
+   "section": "News",
+   "title": {
+    "en": "News timeline July 2025 to July 2026",
+    "ko": "소식 연표(2025년 7월~2026년 7월)"
+   },
+   "content": {
+    "en": "UAIT News items: 26 Jul 2025 hosted the Korean Embassy's Muraho Korea festival; 1 Oct 2025 partnered with Arise AI Agency (fellowship hosted on campus); 30 Oct 2025 Rwanda TVET Board authorized the one-year AI Technology course; 1 and 14 Nov 2025 Piano Academy growth and Jewelry Design Term 2 wrap-up; 14 Nov 2025 a five-week Korean refresher for alumni; 25 Nov 2025 Piano Academy students won awards at the 25th Global New Praise Video Festival; 18 Dec 2025 Jewelry Portfolio Presentation Day and a staff and partner appreciation ceremony; 25 Dec 2025 faculty Christmas outreach for local children; 13 Feb 2026 Piano Academy concert; 30 Apr 2026 orientation for the 2026-2027 intake; 26 May 2026 two Jewelry students completed a Korea internship; 22 Jun 2026 graduate career-guidance session; 23 Jun 2026 named host institution for Smart Ibiruhuko 2026; 28 Jun 2026 RTB confirmed full compliance after its CBT/CBA inspection; 14 to 15 Jul 2026 Sejong Culture Academy.",
+    "ko": "UAIT 소식: 2025년 7월 26일 주르완다 한국대사관의 Muraho Korea 축제 개최, 10월 1일 Arise AI Agency와 협력(캠퍼스 내 펠로우십), 10월 30일 르완다 TVET 위원회가 1년 AI Technology 과정을 인가, 11월 피아노 아카데미 성장과 Jewelry Design 2학기 마무리, 11월 14일 동문 대상 5주 한국어 리프레시 과정, 11월 25일 피아노 아카데미 학생들이 제25회 Global New Praise Video Festival에서 수상, 12월 18일 주얼리 포트폴리오 발표일과 교직원·파트너 감사식, 12월 25일 지역 아동을 위한 교직원 크리스마스 행사, 2026년 2월 13일 피아노 아카데미 콘서트, 4월 30일 2026-2027 신입생 오리엔테이션, 5월 26일 주얼리 학생 2명 한국 인턴십 완료, 6월 22일 졸업생 진로 지도 모임, 6월 23일 Smart Ibiruhuko 2026 호스트 기관 선정, 6월 28일 RTB CBT/CBA 점검에서 전면 준수 확인, 7월 14~15일 세종문화아카데미 개최."
+   },
+   "keywords": [
+    "news",
+    "events",
+    "latest",
+    "recent",
+    "smart ibiruhuko",
+    "sejong",
+    "orientation",
+    "muraho korea",
+    "arise ai",
+    "christmas",
+    "concert",
+    "festival",
+    "소식",
+    "뉴스",
+    "행사"
+   ],
+   "authority": "website",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/news.html"
+  },
+  {
+   "id": "programme-duration",
+   "section": "Programmes",
+   "title": {
+    "en": "How long the programmes take",
+    "ko": "과정 기간"
+   },
+   "content": {
+    "en": "Both open programmes are one year long: the AI Technology Certificate (12 months, full-time, three trimesters) and the Jewelry Design Certificate (one year, three terms). Planned programmes: Piano Performance, Drone Technology and Cyber Security are also described as one-year certificates, and the Advanced Diploma Programs as three years, but none of these is open yet. The class start date for the 2027/2028 intake is not confirmed.",
+    "ko": "현재 모집 중인 두 과정은 모두 1년 과정입니다. AI Technology 자격과정은 12개월 전일제(3개 트리메스터), Jewelry Design 자격과정은 1년(3개 학기)입니다. 개설 예정인 Piano Performance, Drone Technology, Cyber Security는 1년 자격과정, Advanced Diploma Programs는 3년 과정으로 안내되지만 아직 모집하지 않습니다. 2027/2028학년도 개강일은 확정되지 않았습니다."
+   },
+   "keywords": [
+    "how many years",
+    "how long",
+    "duration",
+    "length",
+    "months",
+    "one year",
+    "12 months",
+    "years to study",
+    "how long is the course",
+    "trimesters",
+    "기간",
+    "몇 년",
+    "얼마나",
+    "1년",
+    "개월"
+   ],
+   "authority": "site",
+   "as_of": "2026-11-01",
+   "url": "https://uait.ac.rw/certificates.html"
+  }
+ ]
+}
